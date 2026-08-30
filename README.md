@@ -6,4 +6,4 @@ My journey learning Backend Development.
 
 - [x] Day 01 - JavaScript Fundamentals
 - [x] Day 02 - Control Flow
-- [ ] Day 03 - Loops
+- [x] Day 03 - Loops
