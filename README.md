@@ -49,20 +49,20 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 
 ### Day 03 — Loops
 
-* [ ] Why loops?
-* [ ] `for`
-* [ ] Loop initialization / condition / increment
-* [ ] Trace loop execution
-* [ ] `while`
-* [ ] `do...while`
-* [ ] Compare `for`, `while`, `do...while`
-* [ ] `break`
-* [ ] `continue`
-* [ ] Nested loops
-* [ ] Loop + `if`
-* [ ] Avoid infinite loops
-* [ ] Mini Challenge
-* [ ] Git commit
+* [x] Why loops?
+* [x] `for`
+* [x] Loop initialization / condition / increment
+* [x] Trace loop execution
+* [x] `while`
+* [x] `do...while`
+* [x] Compare `for`, `while`, `do...while`
+* [x] `break`
+* [x] `continue`
+* [x] Nested loops
+* [x] Loop + `if`
+* [x] Avoid infinite loops
+* [x] Mini Challenge
+* [x] Git commit
 
 ### Day 04 — Functions
 
