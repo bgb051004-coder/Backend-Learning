@@ -4,7 +4,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 
 > **Learning method:** Theory → Practice → Exercises → Mentor review → Mini Challenge → Git → Daily checklist
 
----
+***
 
 # 📚 Roadmap
 
@@ -81,20 +81,24 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 
 ### Day 05 — Arrays
 
-* [ ] What is an array?
-* [ ] Index
-* [ ] Read / modify elements
-* [ ] `length`
-* [ ] `push`
-* [ ] `pop`
-* [ ] `shift`
-* [ ] `unshift`
-* [ ] `slice`
-* [ ] `splice`
-* [ ] Loop through arrays
-* [ ] Array + `if`
-* [ ] Mini Challenge
-* [ ] Git commit
+* [x] Array là gì? 
+* [x] Khai báo Array 
+* [x] Index 
+* [x] Truy cập phần tử 
+* [x] Thay đổi phần tử 
+* [x] length 
+* [x] push() 
+* [x] pop()
+* [x] unshift() 
+* [x] shift() 
+* [x] Duyệt Array bằng for 
+* [x] Duyệt Array bằng for...of 
+* [x] Array + if 
+* [x] Array + accumulator 
+* [x] Array + function 
+* [x] Mini Challenge 
+* [x] Git commit 
+* [x] README update
 
 ### Day 06 — Array Methods
 
@@ -151,7 +155,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 * [ ] Block scope
 * [ ] Lexical scope
 * [ ] Callback functions
-* [ ] Higher-order functions
+* [ ] Higher*order functions
 * [ ] Closure basics
 * [ ] Common scope mistakes
 * [ ] Mini Challenge
@@ -172,7 +176,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 * [ ] Mini Challenge
 * [ ] Git commit
 
----
+***
 
 # Phase 2 — Modern JavaScript
 
@@ -244,7 +248,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 * [ ] Fetch API
 * [ ] Mini API exercise
 
----
+***
 
 # Phase 3 — Node.js
 
@@ -302,7 +306,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 * [ ] JSON response
 * [ ] Build a simple server
 
----
+***
 
 # Phase 4 — Express.js
 
@@ -330,7 +334,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 ### Day 24 — Middleware
 
 * [ ] What is middleware?
-* [ ] Built-in middleware
+* [ ] Built*in middleware
 * [ ] Custom middleware
 * [ ] Middleware execution flow
 * [ ] Logging middleware
@@ -339,7 +343,7 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 ### Day 25 — REST API
 
 * [ ] REST principles
-* [ ] Resource-oriented design
+* [ ] Resource*oriented design
 * [ ] CRUD
 * [ ] RESTful routes
 * [ ] HTTP status codes
@@ -368,7 +372,7 @@ Build a small REST API:
 * [ ] README
 * [ ] Git history
 
----
+***
 
 # Phase 5 — Database
 
@@ -413,13 +417,13 @@ Build a small REST API:
 
 ### Day 31 — SQL Relationships
 
-* [ ] One-to-one
-* [ ] One-to-many
-* [ ] Many-to-many
+* [ ] One*to*one
+* [ ] One*to*many
+* [ ] Many*to*many
 * [ ] `JOIN`
 * [ ] `INNER JOIN`
 * [ ] `LEFT JOIN`
-* [ ] Multi-table queries
+* [ ] Multi*table queries
 
 ### Day 32 — Database Design
 
@@ -432,7 +436,7 @@ Build a small REST API:
 * [ ] Not null
 * [ ] Index basics
 
----
+***
 
 # Phase 6 — Node.js + Database
 
@@ -471,7 +475,7 @@ Build a small REST API:
 * [ ] Relations
 * [ ] Choose and learn one ORM
 
----
+***
 
 # Phase 7 — Authentication & Authorization
 
@@ -498,7 +502,7 @@ Build a small REST API:
 
 * [ ] Roles
 * [ ] Permissions
-* [ ] Role-based access control
+* [ ] Role*based access control
 * [ ] Admin / User
 * [ ] Protected resources
 
@@ -513,7 +517,7 @@ Build a small REST API:
 * [ ] Environment variables
 * [ ] Never commit secrets
 
----
+***
 
 # Phase 8 — TypeScript
 
@@ -564,7 +568,7 @@ Build a small REST API:
 * [ ] Type middleware
 * [ ] Fix TypeScript errors
 
----
+***
 
 # Phase 9 — Backend Architecture
 
@@ -615,7 +619,7 @@ Build a small REST API:
 * [ ] Configuration management
 * [ ] Secret management
 
----
+***
 
 # Phase 10 — Testing
 
@@ -624,7 +628,7 @@ Build a small REST API:
 * [ ] Why testing?
 * [ ] Unit testing
 * [ ] Integration testing
-* [ ] End-to-end testing
+* [ ] End*to*end testing
 * [ ] Test structure
 
 ### Day 52 — Unit Testing
@@ -643,7 +647,7 @@ Build a small REST API:
 * [ ] Authentication tests
 * [ ] Database integration tests
 
----
+***
 
 # Phase 11 — Git & GitHub
 
@@ -673,7 +677,7 @@ Build a small REST API:
 * [ ] README
 * [ ] GitHub portfolio
 
----
+***
 
 # Phase 12 — Deployment & DevOps Basics
 
@@ -706,7 +710,7 @@ Build a small REST API:
 * [ ] Deployment pipeline
 * [ ] GitHub Actions basics
 
----
+***
 
 # Phase 13 — Backend Projects
 
@@ -729,7 +733,7 @@ Build a small REST API:
 * [ ] Protected routes
 * [ ] Roles
 
-## Project 3 — E-commerce Backend
+## Project 3 — E*commerce Backend
 
 * [ ] Users
 * [ ] Products
@@ -744,7 +748,7 @@ Build a small REST API:
 * [ ] Search
 * [ ] Error handling
 
-## Project 4 — Production-style Backend
+## Project 4 — Production*style Backend
 
 * [ ] TypeScript
 * [ ] Clean architecture
@@ -760,7 +764,7 @@ Build a small REST API:
 * [ ] CI/CD
 * [ ] API documentation
 
----
+***
 
 # Phase 14 — Fresher / Junior Backend Preparation
 
@@ -807,12 +811,12 @@ Build a small REST API:
 * [ ] CV
 * [ ] Interview preparation
 
----
+***
 
 # 📊 Current Progress
 
 | Phase                                   | Status         |
-| --------------------------------------- | -------------- |
+| *************************************** | ************** |
 | Phase 1 — JavaScript Fundamentals       | 🟢 In Progress |
 | Phase 2 — Modern JavaScript             | ⚪ Not started  |
 | Phase 3 — Node.js                       | ⚪ Not started  |
@@ -828,7 +832,7 @@ Build a small REST API:
 | Phase 13 — Backend Projects             | ⚪ Not started  |
 | Phase 14 — Fresher / Junior Preparation | ⚪ Not started  |
 
----
+***
 
 # 📅 Daily Learning Workflow
 
@@ -860,12 +864,12 @@ Every study day follows this process:
 12. Update this README
 ```
 
----
+***
 
 # 📝 Daily Progress Log
 
 | Day    | Topic                   | Status      | Commit    |
-| ------ | ----------------------- | ----------- | --------- |
+| ****** | *********************** | *********** | ********* |
 | Day 01 | JavaScript Fundamentals | ✅ Completed | `aeb40ad` |
 | Day 02 | Control Flow            | ✅ Completed | `d28047f` |
 | Day 03 | Loops                   | 🟡 Current  | —         |
@@ -876,7 +880,7 @@ Every study day follows this process:
 
 > Continue adding completed days to this table.
 
----
+***
 
 # 🎯 Main Goal
 
@@ -903,10 +907,10 @@ Docker
     ↓
 Deployment
     ↓
-Real-world Backend Projects
+Real*world Backend Projects
 ```
 
----
+***
 
 # 📌 Rules for This Learning Journey
 
@@ -921,35 +925,35 @@ Real-world Backend Projects
 9. Don't skip fundamentals.
 10. Update this README after completing each milestone.
 
----
+***
 
 # 🗂️ Repository Structure
 
 ```text
-backend-learning/
+backend*learning/
 │
 ├── README.md
 │
-├── day-01/
-│   ├── 01-variables.js
-│   ├── 02-data-types.js
-│   ├── 03-string.js
-│   └── 04-day01-challange.js
+├── day*01/
+│   ├── 01*variables.js
+│   ├── 02*data*types.js
+│   ├── 03*string.js
+│   └── 04*day01*challange.js
 │
-├── day-02/
-│   ├── 01-if-else.js
-│   └── 02-access-control.js
+├── day*02/
+│   ├── 01*if*else.js
+│   └── 02*access*control.js
 │
-├── day-03/
+├── day*03/
 │
-├── day-04/
+├── day*04/
 │
 └── ...
 ```
 
----
+***
 
-# 🚀 Long-Term Target
+# 🚀 Long*Term Target
 
 By the end of this roadmap, I should be able to:
 
@@ -963,4 +967,4 @@ By the end of this roadmap, I should be able to:
 * Deploy an API.
 * Explain my projects in a technical interview.
 * Solve common Fresher / Junior Backend interview problems.
-* Build and maintain real-world Backend projects.
+* Build and maintain real*world Backend projects.
