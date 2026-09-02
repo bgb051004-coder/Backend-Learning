@@ -66,18 +66,18 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 
 ### Day 04 — Functions
 
-* [ ] Why functions?
-* [ ] Function declaration
-* [ ] Parameters
-* [ ] Arguments
-* [ ] `return`
-* [ ] Function scope
+* [x] Why functions?
+* [x] Function declaration
+* [x] Parameters
+* [x] Arguments
+* [x] `return`
+* [x] Function scope
 * [ ] Default parameters
-* [ ] Multiple parameters
+* [x] Multiple parameters
 * [ ] Function expressions
 * [ ] Arrow functions
-* [ ] Mini Challenge
-* [ ] Git commit
+* [x] Mini Challenge
+* [x] Git commit
 
 ### Day 05 — Arrays
 
