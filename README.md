@@ -102,18 +102,18 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 
 ### Day 06 — Array Methods
 
-* [ ] `forEach`
-* [ ] `map`
-* [ ] `filter`
-* [ ] `find`
-* [ ] `findIndex`
-* [ ] `some`
-* [ ] `every`
-* [ ] `reduce`
-* [ ] Understand callback functions
-* [ ] Choose the correct array method
-* [ ] Mini Challenge
-* [ ] Git commit
+* [x] `forEach`
+* [x] `map`
+* [X] `filter`
+* [X] `find`
+* [X] `findIndex`
+* [X] `some`
+* [X] `every`
+* [X] `reduce`
+* [x] Understand callback functions
+* [x] Choose the correct array method
+* [x] Mini Challenge
+* [X] Git commit
 
 ### Day 07 — Objects
 
@@ -872,10 +872,10 @@ Every study day follows this process:
 | ****** | *********************** | *********** | ********* |
 | Day 01 | JavaScript Fundamentals | ✅ Completed | `aeb40ad` |
 | Day 02 | Control Flow            | ✅ Completed | `d28047f` |
-| Day 03 | Loops                   | 🟡 Current  | —         |
-| Day 04 | Functions               | ⚪           | —         |
-| Day 05 | Arrays                  | ⚪           | —         |
-| Day 06 | Array Methods           | ⚪           | —         |
+| Day 03 | Loops                   | ✅ Completed  | `49272a1` |
+| Day 04 | Functions               | ✅ Completed | `4401187` |
+| Day 05 | Arrays                  | ✅ Completed | `0a22a4b` |
+| Day 06 | Array Methods           | ✅ Completed | `7f1fe10` |
 | Day 07 | Objects                 | ⚪           | —         |
 
 > Continue adding completed days to this table.
