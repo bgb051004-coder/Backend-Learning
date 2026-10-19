@@ -117,22 +117,22 @@ My journey learning Backend Development from JavaScript fundamentals to Junior/F
 
 ### Day 07 — Objects
 
-* [ ] What is an object?
-* [ ] Properties
-* [ ] Values
-* [ ] Access with `.`
-* [ ] Access with `[]`
-* [ ] Modify properties
-* [ ] Add properties
-* [ ] Delete properties
-* [ ] Nested objects
-* [ ] Objects + arrays
-* [ ] Methods
-* [ ] `Object.keys()`
-* [ ] `Object.values()`
-* [ ] `Object.entries()`
-* [ ] Mini Challenge
-* [ ] Git commit
+* [x] What is an object?
+* [x] Properties
+* [x] Values
+* [x] Access with `.`
+* [x] Access with `[]`
+* [x] Modify properties
+* [x] Add properties
+* [x] Delete properties
+* [x] Nested objects
+* [x] Objects + arrays
+* [x] Methods
+* [x] `Object.keys()`
+* [x] `Object.values()`
+* [x] `Object.entries()`
+* [x] Mini Challenge
+* [x] Git commit
 
 ### Day 08 — Destructuring & Spread
 
@@ -876,7 +876,25 @@ Every study day follows this process:
 | Day 04 | Functions               | ✅ Completed | `4401187` |
 | Day 05 | Arrays                  | ✅ Completed | `0a22a4b` |
 | Day 06 | Array Methods           | ✅ Completed | `7f1fe10` |
-| Day 07 | Objects                 | ⚪           | —         |
+| Day 07 | Objects                 | ✅ Completed | `99cde65` |
+| Day 08 | Objects                 | ⚪           | —         |
+| Day 09 | Objects                 | ⚪           | —         |
+| Day 10 | Objects                 | ⚪           | —         |
+| Day 11 | Objects                 | ⚪           | —         |
+| Day 12 | Objects                 | ⚪           | —         |
+| Day 13 | Objects                 | ⚪           | —         |
+| Day 14 | Objects                 | ⚪           | —         |
+| Day 15 | Objects                 | ⚪           | —         |
+| Day 16 | Objects                 | ⚪           | —         |
+| Day 17 | Objects                 | ⚪           | —         |
+| Day 18 | Objects                 | ⚪           | —         |
+| Day 19 | Objects                 | ⚪           | —         |
+| Day 20 | Objects                 | ⚪           | —         |
+| Day 21 | Objects                 | ⚪           | —         |
+| Day 22 | Objects                 | ⚪           | —         |
+| Day 23 | Objects                 | ⚪           | —         |
+| Day 24 | Objects                 | ⚪           | —         |
+
 
 > Continue adding completed days to this table.
 
@@ -930,25 +948,60 @@ Real*world Backend Projects
 # 🗂️ Repository Structure
 
 ```text
-backend*learning/
+backend-learning/
 │
 ├── README.md
 │
-├── day*01/
-│   ├── 01*variables.js
-│   ├── 02*data*types.js
-│   ├── 03*string.js
-│   └── 04*day01*challange.js
+├── day-01/
+│   ├── 01-variables.js
+│   ├── 02-data-types.js
+│   ├── 03-string.js
+│   └── 04-day01-challange.js
 │
-├── day*02/
-│   ├── 01*if*else.js
-│   └── 02*access*control.js
+├── day-02/
+│   ├── 01-if-else.js
+│   └── 02-access-control.js
 │
-├── day*03/
+├── day-03/       
+│   ├── 01-for.js
+│   ├── 02-while.js
+│   ├── 03-day01-challange01.js
+│   ├── 03-day01-challange02.js
+│   └── 03-day01-challange03.js
+│ 
+├── day-04/
+│   ├── 01-function.js
+│   ├── 02-return.js
+│   ├── 03-return-if.js
+│   ├── 04-mini-challenge.js
+│   ├── 05-function-call-function.js
+│   ├── 06-day04-challange.js
+│   └── 07-scope.js
 │
-├── day*04/
+├── day-05/
+│   ├── 01-easy-array.js
+│   ├── 02-array-accumulator.js
+│   ├── 03-array-if.js
+│   ├── 04-for-of-if.js
+│   ├── 05-medium1-array.js
+│   ├── 06-medium2-array.js
+│   ├── 07-medium3-array.js
+│   ├── 08-medium4-array.js
+│   ├── 09-medium5-array.js
+│   ├── 10-medium6-array.js
+│   ├── 11-medium7-array.js
+│   ├── 12-mini-challange1.js
+│   └── 13-mini-challenge2.js
 │
-└── ...
+├── day-06/
+│   ├── 01-callback-function.js
+│   └── 02-mini-challenge.js
+│
+├── day-07/
+│   ├── 01-object-literal.js
+│   └── 02-mini-challenge.js
+│
+└── 
 ```
 
 ***
